@@ -4,7 +4,7 @@ Supplementary codes and data for ``Spatial Interference Detection in Treatment E
 ## Data and software availability
 - Previously published data CMFD (China meteorological forcing dataset) and CHAP (ChinaHighAirPollutants) were used. One can refer to https://doi.org/10.11888/AtmosPhys.tpe.249493.file and https://doi.org/10.5281/zenodo.3752465 for accessing and enabling data download or detailed description of the two datasets. These two datasets are public but they should be cited with the guides provided by the reference sites.
 
-## Code for ``Interference Detection via a Low-rank and Sparse Treatment Effect Model''
+## Code for ``Spatial Interference Detection in Treatment Effect Model''
 ### Overview
 
 1. Directory *Data Generator* contains the main functions for generating datasets used in simulation and application. Specifically, 
